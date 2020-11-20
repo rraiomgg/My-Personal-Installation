@@ -3,6 +3,10 @@
     makepkg -si PKGBUILD
     yay -S nvidia-390xx
     yay -S google-chrome
+    yay -S xampp
+    sudo npm install -g n
+    sudo n 14.0.0
+    sudo npm install -g expo-cli
     git clone https://aur.archlinux.org/aic94xx-firmware.git
     cd aic94xx-firmware
     makepkg -sri
