@@ -8,4 +8,8 @@
   <li>cd My-Personal-Installation</li>
   <li>chmod +x primeros-pasos.sh</li>
   <li>./primeros-pasos</li>
+  <li>git clone https://github.com/rraiomgg/My-Personal-Installation.git</li>
+  <li>cd My-Personal-Installation</li>
+  <li>chmod +x a-continuacion.sh</li>
+  <li>./a-continuacion.sh</li>
 </ol>
