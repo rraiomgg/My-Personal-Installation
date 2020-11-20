@@ -12,4 +12,6 @@
   <li>cd My-Personal-Installation</li>
   <li>chmod +x a-continuacion.sh</li>
   <li>./a-continuacion.sh</li>
+  <li>chmod +x finalmente.sh</li>
+  <li>./finalmente.sh</li>
 </ol>
