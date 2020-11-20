@@ -14,4 +14,7 @@
   <li>./a-continuacion.sh</li>
   <li>chmod +x finalmente.sh</li>
   <li>./finalmente.sh</li>
+  <li>exit</li>
+  <li>umount -a</li>
+  <li>reboot</li>
 </ol>
