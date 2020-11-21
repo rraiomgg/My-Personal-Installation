@@ -1,5 +1,4 @@
 timedatectl set-ntp true
-pacman -S reflector
 reflector -c "United States" -a 12 --sort rate --save /etc/pacman.d/mirrorlist
 pacman -Syy 
 cfdisk /dev/sda
