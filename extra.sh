@@ -2,6 +2,7 @@
     git clone https://aur.archlinux.org/yay.git
     cd yay
     makepkg -si PKGBUILD
+    sudo pacman -S linux linux-headers
     yay -S nvidia-390xx-dkms
     yay -S google-chrome
     sudo npm install -g expo-cli
