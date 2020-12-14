@@ -2,7 +2,7 @@ ln -sf /usr/share/zoneinfo/America/Mazatlan /etc/localtime
 hwclock --systohc
 nano /etc/locale.gen
 locale-gen 
-echo "LANG=es_MX.UTF-8" >> /etc/locale.conf
+echo "LANG=en_US.UTF-8" >> /etc/locale.conf
 echo "KEYMAP=la-latin1" >> /etc/vconsole.conf
 cp ./hostname /etc/hostname
 cp ./hosts /etc/hosts
