@@ -9,3 +9,5 @@ passwd
 useradd -mG wheel ramiro
 passwd ramiro
 EDITOR=nano visudo
+cd ..
+rm -r My-Personal-Installation
