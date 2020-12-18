@@ -4,6 +4,7 @@
     sudo pacman -S linux linux-headers discord composer php
     yay -S nvidia-390xx-dkms
     yay -S google-chrome
+    yay -S wps-office
     sudo npm install -g expo-cli
     git clone https://aur.archlinux.org/aic94xx-firmware.git
     cd aic94xx-firmware
