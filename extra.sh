@@ -14,6 +14,4 @@
     cd wd719x-firmware
     makepkg -sri
     sudo mkinitcpio -p linux-lts
-    sudo pacman -S virtualbox-host-dkms
-    sudo modprobe vboxdrv
     sudo pacman -S android-tools
